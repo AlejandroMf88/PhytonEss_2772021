@@ -1,0 +1,4 @@
+En la concatenación solo se permite entre strings.
+Si se quiere concanterar int con string se requiere la función de conversión.
+Una tupla no se puede modificar los valores
+Un diccionario no permite repetir llaves
